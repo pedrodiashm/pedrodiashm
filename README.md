@@ -3,8 +3,7 @@
 ## Hey!!
 * My name is Pedro Dias
 * i'm 21 years old.
-* Currently enrolled in a computer science bachelor degree 
-* Looking for a Job
+* Currently enrolled in a computer science bachelor degree
 
 
 ## ✉️ Contact me:
