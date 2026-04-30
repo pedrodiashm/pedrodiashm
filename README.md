@@ -17,20 +17,20 @@ Nivel básico:
 * JavaScript
 * Python 
 * Java
-* C 
+* C
+* Nmap
 
 **Frontend:**
 
 * HTML, CSS
 * React
-* Next.js
-* Vite
 
 **Backend:**
 
 * Node.js
 * Express
 * MongoDB
+* Flask
 
 **Ambiente:**
 
