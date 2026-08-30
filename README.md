@@ -75,6 +75,7 @@ Meus projetos são principalmente experimentos e ferramentas pessoais para apren
 
 Blog Pessoal: [pedrodiashm.github.io/Space-Blog/](https://pedrodiashm.github.io/Space-Blog/)
 * repo: [SpaceBlog](https://github.com/pedrodiashm/Space-Blog)
+
 App Alagou (projeto acadêmico): [Alagou](http://18.119.128.199)
 * repo: [Alagou](https://github.com/pedrodiashm/Alagou)
 
