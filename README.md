@@ -22,7 +22,7 @@ Também tenho interesse em **segurança da informação e computação em nuvem*
 
 ### 🐧 Sistemas & Infraestrutura
 
-* Linux — principalmente Arch Linux
+* Linux 
 * Administração de sistemas
 * Shell / Bash
 * SSH
@@ -37,7 +37,6 @@ Também tenho interesse em **segurança da informação e computação em nuvem*
 * GitHub Actions
 * CI/CD
 * Automação de tarefas
-* Infraestrutura como código — em aprendizado
 
 ### 🔧 Desenvolvimento & Scripting
 
